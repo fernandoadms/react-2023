@@ -3,24 +3,71 @@ function App() {
     <main>
       <h1>React 2023</h1>
 
-      <p>Here will be some things to study about React in 2023</p>
+      <p>Modern React 2023</p>
 
       <ul>
-        <li>React 18</li>
-        <li>Tailwind</li>
-        <li>Hooks</li>
         <li>Custom Hooks</li>
-        <li>React Testing Library</li>
-        <li>Typescript</li>
+        <li>Cypress</li>
+        <li>Hooks</li>
         <li>Jest</li>
-        <li></li>
+        <li>React 18</li>
+        <li>React Testing Library</li>
+        <li>Tailwind</li>
+        <li>Typescript</li>
+        <li>Best Practices</li>
+        <li>GraphQL</li>
+        <li>Redux</li>
       </ul>
 
-      <footer>
+      <div>
+        <h2>Courses</h2>
+
+        <h3>Free</h3>
         <ul>
           <li>
-            <a href="https://jsonplaceholder.typicode.com/">
-              https://jsonplaceholder.typicode.com/
+            <a href="#">https://fullstackopen.com/ptbr</a>
+          </li>
+          <li>
+            <a href="#">https://react.dev/</a>
+          </li>
+          <li>
+            <a href="#">
+              https://cult.honeypot.io/reads/8-best-react-courses-2022/
+            </a>
+          </li>
+        </ul>
+      </div>
+
+      <div>
+        <h3>Tests</h3>
+        <ul>
+          <li>
+            <a href="#">
+              https://cult.honeypot.io/reads/8-best-react-courses-2022/
+            </a>
+          </li>
+        </ul>
+      </div>
+
+      <footer>
+        <h3>Links</h3>
+        <ul>
+          <li>
+            <a href="#">https://jsonplaceholder.typicode.com/</a>
+          </li>
+          <li>
+            <a href="#">
+              https://blog.logrocket.com/modern-api-data-fetching-methods-react/
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              https://initjs.org/react-js-best-practices-fbd180e665b2
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              https://github.com/airbnb/javascript/tree/master/react
             </a>
           </li>
         </ul>
